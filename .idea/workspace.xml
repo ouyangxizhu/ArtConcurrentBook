@@ -1,17 +1,187 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c223570b-41a1-44fd-9a7e-a2e6df98317d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter01/ConcurrencyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter01/ConcurrencyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter02/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter02/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter03/DoubleCheckedLocking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/DoubleCheckedLocking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter03/FinalExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/FinalExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter03/FinalReferenceEscapeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/FinalReferenceEscapeExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter03/FinalReferenceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/FinalReferenceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter03/InstanceFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/InstanceFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter03/MonitorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/MonitorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter03/ReentrantLockExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/ReentrantLockExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter03/ReorderExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/ReorderExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter03/SafeDoubleCheckedLocking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/SafeDoubleCheckedLocking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter03/SynchronizedExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/SynchronizedExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter03/UnsafeLazyInitialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/UnsafeLazyInitialization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter03/VolatileBarrierExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/VolatileBarrierExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter03/VolatileExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/VolatileExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter03/VolatileFeaturesExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/VolatileFeaturesExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter03/VolatileFeaturesExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/VolatileFeaturesExample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter04/ConnectionDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/ConnectionDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter04/ConnectionPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/ConnectionPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter04/ConnectionPoolTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/ConnectionPoolTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter04/DefaultThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/DefaultThreadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter04/Interrupted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/Interrupted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter04/Join.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/Join.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter04/MultiThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/MultiThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter04/Piped.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/Piped.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter04/Profiler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/Profiler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter04/Shutdown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/Shutdown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter04/SimpleHttpServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/SimpleHttpServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter04/Synchronized.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/Synchronized.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter04/ThreadState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/ThreadState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter04/WaitNotify.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/WaitNotify.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="D:/Chengxu/Myeclipsechengxu/initialiar-start" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../blog" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../spring-framework-5.1.9.RELEASE" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../spring-framework-master" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../spring-framework-master/spring-beans" value="PREVIEW" />
-      </map>
+  <component name="FavoritesManager">
+    <favorites_list name="ArtConcurrentBook" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter04/Synchronized.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter04/WaitNotify.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="65" lean-forward="true" selection-start-line="12" selection-end-line="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter04/Piped.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="47" lean-forward="true" selection-start-line="9" selection-end-line="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter04/Join.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="36" column="1" lean-forward="true" selection-start-line="7" selection-end-line="36" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter04/Profiler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="29" lean-forward="true" selection-start-line="7" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter04/ConnectionPool.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="57" lean-forward="true" selection-start-line="8" selection-end-line="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter04/ConnectionDriver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="27" lean-forward="true" selection-start-line="11" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter04/ConnectionPoolTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="74" column="9" lean-forward="true" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter04/DefaultThreadPool.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="129" lean-forward="true" selection-start-line="11" selection-end-line="129" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chapter04/SimpleHttpServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="121" lean-forward="true" selection-start-line="19" selection-end-line="121" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/chapter01/ConcurrencyTest.java" />
+        <option value="$PROJECT_DIR$/src/chapter02/Counter.java" />
+        <option value="$PROJECT_DIR$/src/chapter03/SynchronizedExample.java" />
+        <option value="$PROJECT_DIR$/src/chapter03/VolatileFeaturesExample.java" />
+        <option value="$PROJECT_DIR$/src/chapter03/VolatileFeaturesExample1.java" />
+        <option value="$PROJECT_DIR$/src/chapter03/VolatileBarrierExample.java" />
+        <option value="$PROJECT_DIR$/src/chapter03/MonitorExample.java" />
+        <option value="$PROJECT_DIR$/src/chapter03/ReentrantLockExample.java" />
+        <option value="$PROJECT_DIR$/src/chapter03/FinalExample.java" />
+        <option value="$PROJECT_DIR$/src/chapter03/FinalReferenceExample.java" />
+        <option value="$PROJECT_DIR$/src/chapter03/FinalReferenceEscapeExample.java" />
+        <option value="$PROJECT_DIR$/src/chapter03/VolatileExample.java" />
+        <option value="$PROJECT_DIR$/src/chapter03/UnsafeLazyInitialization.java" />
+        <option value="$PROJECT_DIR$/src/chapter03/DoubleCheckedLocking.java" />
+        <option value="$PROJECT_DIR$/src/chapter03/SafeDoubleCheckedLocking.java" />
+        <option value="$PROJECT_DIR$/src/chapter03/InstanceFactory.java" />
+        <option value="$PROJECT_DIR$/src/chapter03/ReorderExample.java" />
+        <option value="$PROJECT_DIR$/src/chapter04/MultiThread.java" />
+        <option value="$PROJECT_DIR$/src/chapter04/ThreadState.java" />
+        <option value="$PROJECT_DIR$/src/chapter04/Interrupted.java" />
+        <option value="$PROJECT_DIR$/src/chapter04/Shutdown.java" />
+        <option value="$PROJECT_DIR$/src/chapter04/Synchronized.java" />
+        <option value="$PROJECT_DIR$/src/chapter04/WaitNotify.java" />
+        <option value="$PROJECT_DIR$/src/chapter04/Piped.java" />
+        <option value="$PROJECT_DIR$/src/chapter04/Join.java" />
+        <option value="$PROJECT_DIR$/src/chapter04/Profiler.java" />
+        <option value="$PROJECT_DIR$/src/chapter04/ConnectionPool.java" />
+        <option value="$PROJECT_DIR$/src/chapter04/ConnectionDriver.java" />
+        <option value="$PROJECT_DIR$/src/chapter04/ConnectionPoolTest.java" />
+        <option value="$PROJECT_DIR$/src/chapter04/DefaultThreadPool.java" />
+        <option value="$PROJECT_DIR$/src/chapter04/SimpleHttpServer.java" />
+      </list>
     </option>
   </component>
   <component name="MavenImportPreferences">
@@ -26,11 +196,43 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-7" />
     <option name="y" value="2" />
     <option name="width" value="1932" />
     <option name="height" value="1045" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ArtConcurrentBook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ArtConcurrentBook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ArtConcurrentBook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ArtConcurrentBook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ArtConcurrentBook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ArtConcurrentBook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter04" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -42,8 +244,19 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet">
@@ -83,6 +296,422 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c223570b-41a1-44fd-9a7e-a2e6df98317d" name="Default Changelist" comment="" />
+      <created>1568359920564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568359920564</updated>
+      <workItem from="1568359923674" duration="2275000" />
+      <workItem from="1568374917960" duration="15868000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18143000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.3979933" visible="true" weight="0.2524013" />
+      <window_info id="Structure" order="1" sideWeight="0.6020067" side_tool="true" weight="0.2524013" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50167227" side_tool="true" weight="0.2497332" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.33034715" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" side_tool="true" visible="true" weight="0.19423692" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="999">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter01/ConcurrencyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter01/DeadLockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/JDK/src.zip!/java/util/concurrent/LinkedTransferQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="560" column="4" selection-start-line="560" selection-start-column="4" selection-end-line="564" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter02/Counter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="13" selection-start-line="13" selection-end-line="72" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter03/SynchronizedExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter03/VolatileFeaturesExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="17" lean-forward="true" selection-start-line="2" selection-end-line="17" />
+          <folding>
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter03/VolatileFeaturesExample1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="19" lean-forward="true" selection-start-line="2" selection-end-line="19" />
+          <folding>
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter03/VolatileBarrierExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="17" lean-forward="true" selection-start-line="2" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter03/MonitorExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" lean-forward="true" selection-start-line="2" selection-end-line="13" />
+          <folding>
+            <element signature="e#97#98#0" expanded="true" />
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter03/ReentrantLockExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/JDK/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="205" column="26" lean-forward="true" selection-start-line="205" selection-start-column="26" selection-end-line="205" selection-end-column="26" />
+          <folding>
+            <element signature="e#7116#7117#0" expanded="true" />
+            <element signature="e#7150#7151#0" expanded="true" />
+            <element signature="e#9117#9118#0" expanded="true" />
+            <element signature="e#9144#9145#0" expanded="true" />
+            <element signature="e#12210#12211#0" expanded="true" />
+            <element signature="e#12258#12259#0" expanded="true" />
+            <element signature="e#15850#15851#0" expanded="true" />
+            <element signature="e#15881#15882#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/JDK/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="565" column="29" lean-forward="true" selection-start-line="565" selection-start-column="29" selection-end-line="565" selection-end-column="29" />
+          <folding>
+            <element signature="e#41392#41393#0" expanded="true" />
+            <element signature="e#41449#41450#0" expanded="true" />
+            <element signature="e#42562#42563#0" expanded="true" />
+            <element signature="e#42619#42620#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/JDK/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="299" column="94" lean-forward="true" selection-start-line="299" selection-start-column="4" selection-end-line="299" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter03/FinalExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="2" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter03/FinalReferenceExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="25" lean-forward="true" selection-start-line="2" selection-end-line="25" />
+          <folding>
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter03/FinalReferenceEscapeExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="22" lean-forward="true" selection-start-line="2" selection-end-line="22" />
+          <folding>
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter03/VolatileExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter03/UnsafeLazyInitialization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" lean-forward="true" selection-start-line="2" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter03/DoubleCheckedLocking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="18" lean-forward="true" selection-start-line="2" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter03/SafeDoubleCheckedLocking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="18" lean-forward="true" selection-start-line="2" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter03/InstanceFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" lean-forward="true" selection-start-line="2" selection-end-line="14" />
+          <folding>
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter03/ReorderExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter03/SafeLazyInitialization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter04/MultiThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter04/Priority.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="54" lean-forward="true" selection-start-line="9" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter04/ThreadState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="79" column="1" lean-forward="true" selection-start-line="8" selection-end-line="79" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter04/SleepUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="15" lean-forward="true" selection-start-line="7" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter04/Daemon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="24" lean-forward="true" selection-start-line="5" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter04/ThreadPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/JDK/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="422" column="5" lean-forward="true" selection-start-line="362" selection-start-column="4" selection-end-line="422" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter04/Interrupted.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="45" lean-forward="true" selection-start-line="7" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter04/Shutdown.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="41" lean-forward="true" selection-start-line="7" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter04/Synchronized.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter04/WaitNotify.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="65" lean-forward="true" selection-start-line="12" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter04/Piped.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="47" lean-forward="true" selection-start-line="9" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter04/Join.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="36" column="1" lean-forward="true" selection-start-line="7" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter04/Profiler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="29" lean-forward="true" selection-start-line="7" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter04/ConnectionPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="57" lean-forward="true" selection-start-line="8" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter04/ConnectionDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="27" lean-forward="true" selection-start-line="11" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter04/ConnectionPoolTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="74" column="9" lean-forward="true" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter04/DefaultThreadPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="129" lean-forward="true" selection-start-line="11" selection-end-line="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter04/SimpleHttpServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="121" lean-forward="true" selection-start-line="19" selection-end-line="121" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>

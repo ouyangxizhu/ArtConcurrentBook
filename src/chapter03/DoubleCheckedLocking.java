@@ -1,17 +1,17 @@
 package chapter03;
 
-public class DoubleCheckedLocking { //1
-    private static Instance instance; //2
+public class DoubleCheckedLocking {                     //1
+    private static Instance instance;                   //2
 
-    public static Instance getInstance() { //3
-        if (instance == null) { //4:µÚÒ»´Î¼ì²é
-            synchronized (DoubleCheckedLocking.class) { //5:¼ÓËø
-                if (instance == null) //6:µÚ¶ş´Î¼ì²é
-                    instance = new Instance(); //7:ÎÊÌâµÄ¸ùÔ´³öÔÚÕâÀï
-            } //8
-        } //9
-        return instance; //10
-    } //11
+    public static Instance getInstance() {              //3
+        if (instance == null) {                         //4:ç¬¬ä¸€æ¬¡æ£€æŸ¥
+            synchronized (DoubleCheckedLocking.class) { //5:åŠ é”
+                if (instance == null)                   //ç¬¬äºŒæ¬¡æ£€æŸ¥
+                    instance = new Instance();          //7:é—®é¢˜çš„æ ¹æºå‡ºåœ¨è¿™é‡Œ
+            }                                           //8
+        }                                               //9
+        return instance;                                //10
+    }                                                   //11
 
     static class Instance {
     }

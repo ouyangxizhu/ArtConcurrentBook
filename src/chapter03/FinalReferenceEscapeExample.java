@@ -6,8 +6,8 @@ public class FinalReferenceEscapeExample {
     static FinalReferenceEscapeExample obj;
 
     public FinalReferenceEscapeExample() {
-        i = 1; //1Ğ´finalÓò
-        obj = this; //2 thisÒıÓÃÔÚ´Ë¡°Òİ³ö¡±
+        i = 1;                                  //1. å†™finalåŸŸ
+        obj = this;                             //2. thiså¼•ç”¨åœ¨æ­¤â€œé€¸å‡ºâ€
     }
 
     public static void writer() {
@@ -15,8 +15,8 @@ public class FinalReferenceEscapeExample {
     }
 
     public static void reader() {
-        if (obj != null) { //3
-            int temp = obj.i; //4
+        if (obj != null) {                      //3
+            int temp = obj.i;                   //4
         }
     }
 }

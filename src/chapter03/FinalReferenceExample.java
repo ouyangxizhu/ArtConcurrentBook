@@ -1,25 +1,25 @@
 package chapter03;
 
 public class FinalReferenceExample {
-    final int[]                  intArray; //finalÊÇÒýÓÃÀàÐÍ
+    final int[]                  intArray; //finalæ˜¯å¼•ç”¨ç±»åž‹
     static FinalReferenceExample obj;
 
-    public FinalReferenceExample() { //¹¹Ôìº¯Êý
-        intArray = new int[1]; //1
-        intArray[0] = 1; //2
+    public FinalReferenceExample() {        //æž„é€ å‡½æ•°
+        intArray = new int[1];              //1
+        intArray[0] = 1;                    //2
     }
 
-    public static void writerOne() { //Ð´Ïß³ÌAÖ´ÐÐ
-        obj = new FinalReferenceExample(); //3
+    public static void writerOne() {        //å†™çº¿ç¨‹Aæ‰§è¡Œ
+        obj = new FinalReferenceExample();  //3
     }
 
-    public static void writerTwo() { //Ð´Ïß³ÌBÖ´ÐÐ
-        obj.intArray[0] = 2; //4
+    public static void writerTwo() {        //å†™çº¿ç¨‹Bæ‰§è¡Œ
+        obj.intArray[0] = 2;                //4
     }
 
-    public static void reader() { //¶ÁÏß³ÌCÖ´ÐÐ
-        if (obj != null) { //5
-            int temp1 = obj.intArray[0]; //6
+    public static void reader() {           //è¯»çº¿ç¨‹Cæ‰§è¡Œ
+        if (obj != null) {                  //5
+            int temp1 = obj.intArray[0];    //6
         }
     }
 }

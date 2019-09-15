@@ -4,15 +4,14 @@ class SynchronizedExample {
     int     a    = 0;
     boolean flag = false;
 
-    public synchronized void writer() { //»ñÈ¡Ëø
+    public synchronized void writer() { //ï¿½è·å–é”ï¿½
         a = 1;
         flag = true;
-    } //ÊÍ·ÅËø
+    } //ï¿½é‡Šæ”¾é”ï¿½ï¿½ï¿½
 
-    public synchronized void reader() { //»ñÈ¡Ëø
+    public synchronized void reader() { //ï¿½ï¿½è·å–é”ï¿½
         if (flag) {
             int i = a;
-            //¡­¡­
-        } //ÊÍ·ÅËø
-    }
+        }
+    }                                   //é‡Šæ”¾é”ï¿½
 }
